@@ -1,0 +1,10 @@
+{
+  "name": "guardian-dispute-engine",
+  "version": "1.0.0",
+  "description": "Guardian logic for disputing false assertions",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
+  }
+}
